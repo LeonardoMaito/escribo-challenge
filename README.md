@@ -10,6 +10,10 @@ Para rodar o programa, execute o `void main()` em `main.dart` clicando nas flech
 
 Ao abrir o `run`, o programa irá pedir para digitar um número inteiro positivo. Digite o número e aperte 'enter' para obter a resposta.
 
+Versões:
+- Flutter 3.13.8 - channel stable
+- Dart 3.1.4
+
 ### Testes
 
 Dentro da pasta `test` existe o arquivo para testes do `main.dart`. 
