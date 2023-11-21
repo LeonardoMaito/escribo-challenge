@@ -12,7 +12,9 @@ Ao abrir o `run`, o programa irá pedir para digitar um número inteiro positivo
 
 ### Testes
 
-Dentro da pasta `test` existe o arquivo para testes do `main.dart`. Ali dentro encontrarão alguns testes unitários básicos para o programa.
+Dentro da pasta `test` existe o arquivo para testes do `main.dart`. 
+
+Dentro encontrarão alguns testes unitários básicos para o programa.
 Caso queiram realizar testes dessa maneira, basta adicionar um `test('nome do teste'), () { expect(returnSumOfNumbers(inteiro), equals(resultadoEsperado));}`
 
 Os testes podem ser executados de maneira similar ao `void main()` explicado em Instruções.
