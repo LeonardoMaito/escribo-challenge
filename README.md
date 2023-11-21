@@ -6,7 +6,7 @@ Implemente uma função que receba um número inteiro positivo e retorne o somat
 
 ### Instruções
 
-Para rodar o programa, execute o `void main()` em `main.dart` clicando nas flechas verdes do lado do respectivo nome.
+Para rodar o programa, execute o `void main()` em `main.dart` clicando nas flechas verdes ao lado do respectivo nome.
 
 Ao abrir o `run`, o programa irá pedir para digitar um número inteiro positivo. Digite o número e aperte 'enter' para obter a resposta.
 
