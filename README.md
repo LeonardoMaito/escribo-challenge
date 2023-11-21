@@ -1,16 +1,18 @@
-# escribo
+# Escribo - Teste Técnico 1
 
-A new Flutter project.
+## Descrição 
 
-## Getting Started
+Implemente uma função que receba um número inteiro positivo e retorne o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
 
-This project is a starting point for a Flutter application.
+### Instruções
 
-A few resources to get you started if this is your first Flutter project:
+Para rodar o programa, execute o `void main()` em `main.dart` clicando nas flechas verdes do lado do respectivo nome.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ao abrir o `run`, o programa irá pedir para digitar um número inteiro positivo. Digite o número e aperte 'enter' para obter a resposta.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Testes
+
+Dentro da pasta `test` existe o arquivo para testes do `main.dart`. Ali dentro encontrarão alguns testes unitários básicos para o programa.
+Caso queiram realizar testes dessa maneira, basta adicionar um `test('nome do teste'), () { expect(returnSumOfNumbers(inteiro), equals(resultadoEsperado));}`
+
+Os testes podem ser executados de maneira similar ao `void main()` explicado em Instruções.
