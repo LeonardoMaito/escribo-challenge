@@ -1,24 +1,15 @@
-# Escribo - Teste Técnico 1
+# Escribo - Challenge
 
-## Descrição 
+## Description
 
-Implemente uma função que receba um número inteiro positivo e retorne o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
+Implement a function that receives a **positive integer** and returns the **sum of all integer values** that are **divisible by 3 or 5** and **less than the given number**.
 
-### Instruções
+---
 
-Para rodar o programa, execute o `void main()` em `main.dart` clicando nas flechas verdes ao lado do respectivo nome.
+## Instructions
 
-Ao abrir o `run`, o programa irá pedir para digitar um número inteiro positivo. Digite o número e aperte 'enter' para obter a resposta.
+To run the program, execute the `void main()` function in **main.dart** by clicking the **green arrows** next to its name.
 
-Versões:
-- Flutter 3.13.8 - channel stable
-- Dart 3.1.4
+Once the program starts running, it will prompt you to **enter a positive integer**.  
+Type the number and press **'Enter'** to get the result.
 
-### Testes
-
-Dentro da pasta `test` existe o arquivo para testes do `main.dart`. 
-
-Dentro encontrarão alguns testes unitários básicos para o programa.
-Caso queiram realizar testes dessa maneira, basta adicionar um `test('nome do teste'), () { expect(returnSumOfNumbers(inteiro), equals(resultadoEsperado));}`
-
-Os testes podem ser executados de maneira similar ao `void main()` explicado em Instruções.
